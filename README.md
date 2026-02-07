@@ -13,7 +13,7 @@ Design inspiration
 
 ## Live Preview
 
-Deployed version - 
+Deployed version - https://tushargithub0103.github.io/Mintlify_Clone/
 
 ---
 
